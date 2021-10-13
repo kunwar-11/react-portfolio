@@ -21,7 +21,7 @@ export const Profile = () => {
           <span className="text-purple-500 font-medium">
             {" "}
             React js , Javascript , Express js , node js , mongoose , Github,
-            HTML5 , CSS3
+            tailwind css HTML5 , CSS3 , redux-toolkit
           </span>
         </h2>
       </div>
