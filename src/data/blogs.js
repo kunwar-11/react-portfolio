@@ -11,4 +11,24 @@ export const blogs = [
     blogLink:
       "https://hashnode.com/post/introduction-to-jwt-authentication-cksd8tjx10807u5s18uih4dnd",
   },
+  {
+
+    bId: ++id,
+
+    coverPage:
+
+      "https://images.app.goo.gl/e467TS4TdFhr9c9q8",
+
+    topicName: "The Toolkit Saga",
+
+    initialLines: "Recently, in my Internship, I have been shifted to a new project where the state management is in the redux toolkit and redux-saga...",
+
+
+    date: "Mar 16, 2022",
+
+    blogLink:
+
+      "https://hashnode.com/post/the-toolkit-saga-cl0toozh900hrzcnv5j90ewe7",
+
+  },
 ];
