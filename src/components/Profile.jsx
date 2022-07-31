@@ -4,7 +4,7 @@ export const Profile = () => {
   return (
     <div className="flex flex-col justify-center sm:flex-row items-center sm:max-w-screen-sm sm:mx-auto sm:mt-32 mt-8">
       <img
-        src="https://media-exp1.licdn.com/dms/image/C5603AQEmsG6AZ6CDzw/profile-displayphoto-shrink_800_800/0/1607027196365?e=1639612800&v=beta&t=-7ILuDneEbw5SewgxPig7Ff4-PPR8ykD7EqgAzvgisM"
+        src="/profile.jfif"
         alt="profile"
         className="rounded-full w-3/5 sm:w-2/5 mr-3 p-1 sm:p-1.5 border-2 border-purple-500 mb-3 sm:mb-0"
       />
